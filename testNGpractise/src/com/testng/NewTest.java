@@ -11,8 +11,8 @@ public class NewTest {
   }
   @Test
   public void f1() {
-	Reporter.log("Test"); 
-	System.out.println("addeddddd");
+	Reporter.log("Test");  
+	System.out.println("sdfs");
   
   }
 }
